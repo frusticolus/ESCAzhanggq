@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602569472155.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1758285148",
+    "id" : "404D315B",
+    "lastKnownWriteTime" : 1602838587,
+    "last_content_update" : 1602838587605,
+    "path" : "~/Desktop/医学研究项目/202010-张国庆食管癌免疫新辅助/Rprj/draw_boxplot.R",
+    "project_path" : "draw_boxplot.R",
+    "properties" : {
+        "cursorPosition" : "8,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

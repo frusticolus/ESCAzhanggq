@@ -1,0 +1,13 @@
+{
+    "path" : "~/Desktop/医学研究项目/202010-张国庆食管癌免疫新辅助/Rprj/output",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603352792389.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1409111331",
+    "id" : "77514570",
+    "lastKnownWriteTime" : 1603359658,
+    "last_content_update" : 1603359658540,
+    "path" : "~/Desktop/医学研究项目/202010-张国庆食管癌免疫新辅助/Rprj/ESPD.CIBERSORT.barplot.R",
+    "project_path" : "ESPD.CIBERSORT.barplot.R",
+    "properties" : {
+        "cursorPosition" : "127,0",
+        "scrollLine" : "111"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
